@@ -1,4 +1,4 @@
-# Util_Basic_Job_Scraper
+# Util_Basic_Web_Scraper
 A simple repo to scrape linked in jobs.
 
 #create venv
